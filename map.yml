@@ -1,0 +1,4 @@
+map_name: MasterofEuropa
+games:
+- {game_name: Master of Europa, file_name: Master of Europa.xml}
+version: 0
